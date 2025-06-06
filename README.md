@@ -1,7 +1,10 @@
 # Project datafun-06-eda
+
 The purpose of this project is to perform EDA on a well known clean dataset in a jupyter notebook.
 
-# 🟠 Create and activate virtual environment.
+---
+
+# Create and activate virtual environment.
 
 Open your project repository in VS Code. 
 
@@ -49,7 +52,7 @@ deactivate
 ```
 ---
 
-# 🟠 04-git-add-commit-push.md
+# git-add-commit-push to GitHub Instructions
 
 Instructions to add files to version control, commit changes, and push them to your remote repository.
 
