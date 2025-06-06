@@ -1,6 +1,6 @@
 # Project datafun-06-eda
 
-The purpose of this project is to perform EDA on a well known clean dataset in a jupyter notebook.  The data set being used for this project is the mtcars data set found as a dataset in base R and was originaly taken from a 1974 issue of Motor Trend magazine.  The dataset can be found on GitHub here [here](https://gist.github.com/seankross/a412dfbd88b3db70b74b)
+The purpose of this project is to perform EDA on a well known clean dataset in a jupyter notebook.  The data set being used for this project is the mtcars data set found as a dataset in base R and was originaly taken from a 1974 issue of Motor Trend magazine.  The dataset can be found on GitHub here: [mtcars](https://gist.github.com/seankross/a412dfbd88b3db70b74b)
 
 ---
 
