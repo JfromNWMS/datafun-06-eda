@@ -36,8 +36,6 @@ If VS Code asks: We noticed a new environment has been created.
 Do you want to select it for the workspace folder?
 Click Yes. 
 
----
-
 ### Activate and Deactivate Virtual Environment
 
 Run the following command from the project root directory to activate the virtual environment.
